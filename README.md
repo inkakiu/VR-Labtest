@@ -7,6 +7,5 @@ This is my first repository, so hehe
 
 Thank you
 
-#How to
-
+//Note
 Just install Cinema 4D and you can open it
